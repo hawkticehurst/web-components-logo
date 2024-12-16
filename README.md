@@ -4,6 +4,13 @@ A logo for web components and custom elements.
 
 ![Three web component logos in color, dark, and light themes.](./assets/banner.png)
 
+This repository contains the follow logos and resources:
+
+- Web Components logo (color, dark, light) in SVG and PNG formats
+- Custom Elements logo (color, dark, light) in SVG and PNG formats
+- Variants of the above logos in SVG and PNG formats
+- A local copy of the Figma file where these logos were created
+
 ## Font
 
 The logos use Barlow Condensed (a variant of [Barlow](https://tribby.com/fonts/barlow/)) by [Jeremy Tribby](https://tribby.com/).
