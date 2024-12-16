@@ -21,3 +21,7 @@ It's licensed under [SIL Open Font License, Version 1.1](https://openfontlicense
 - [Barlow Website](https://tribby.com/fonts/barlow/)
 - [Barlow GitHub](https://github.com/jpt/barlow)
 - [Google Fonts](https://fonts.google.com/specimen/Barlow+Condensed)
+
+## Color
+
+The color variant of the logo uses the hex value #E54D28. It is taken from the original [web components logo](https://webcomponents.github.io/assets/).
