@@ -4,7 +4,7 @@ A logo for web components and custom elements.
 
 ![Three web component logos in color, dark, and light themes.](./assets/banner.png)
 
-This repository contains the follow logos and resources:
+This repository contains the following logos and resources:
 
 - Web Components logo (color, dark, light) in SVG and PNG formats
 - Custom Elements logo (color, dark, light) in SVG and PNG formats
